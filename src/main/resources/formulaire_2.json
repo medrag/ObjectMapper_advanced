@@ -1,0 +1,20 @@
+{
+  "gestion": {
+    "type": "Progiciel",
+    "owner": "IBM",
+    "status": "En projet",
+    "openDays": "Samedi + Week end"
+  },
+  "technique": {
+    "languages": null,
+    "os": [
+        "OS : Windows 2005",
+        "OS : Linux",
+        "OS : Debian"
+    ],
+    "sgbd": [
+        "SGBD : SQL Server 2012",
+        "SGBD : pgAdmin"
+    ]
+  }
+}

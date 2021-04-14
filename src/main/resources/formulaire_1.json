@@ -1,0 +1,60 @@
+{
+  "gestion": {
+    "type": {
+      "name": "Progiciel",
+      "internalValue": "P"
+    },
+    "owner": {
+      "name": "IBM",
+      "internalValue": "IBM"
+    },
+    "status": {
+      "name": "En projet",
+      "internalValue": "Proj"
+    },
+    "openDays": {
+      "name": "Samedi + Week end",
+      "internalValue": "Samedi + Week-end"
+    }
+  },
+  "technique": {
+    "languages": [
+      {
+        "name": "Langage : Angular",
+        "internalValue": "Angular"
+      },
+      {
+        "name": "Langage : Android",
+        "internalValue": "Android"
+      },
+      {
+        "name": "Langage : Cobol",
+        "internalValue": "Cobol"
+      }
+    ],
+    "os": [
+      {
+        "name": "OS : Windows 2005",
+        "internalValue": "Windows 2005"
+      },
+      {
+        "name": "OS : Linux",
+        "internalValue": "Linux"
+      },
+      {
+        "name": "OS : Debian",
+        "internalValue": "Debian"
+      }
+    ],
+    "sgbd": [
+      {
+        "name": "SGBD : SQL Server 2012",
+        "internalValue": "SQL Server 2012"
+      },
+      {
+        "name": "SGBD : pgAdmin",
+        "internalValue": "pgAdmin"
+      }
+    ]
+  }
+}
